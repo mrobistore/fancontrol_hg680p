@@ -2,7 +2,12 @@
 
 # Buat Direktori
 echo "Membuat folder......"
-
+mkdir -p /tmp/fan_control/CONTROL
+mkdir -p /tmp/fan_control/etc/config
+mkdir -p /tmp/fan_control/root
+mkdir -p /tmp/fan_control/usr/lib/lua/luci/controller
+mkdir -p /tmp/fan_control/usr/lib/lua/luci/model/cbi/fan
+mkdir -p /tmp/fan_control/etc/init.d
 
 # Clone repository
 echo "Mengunduh file dari GitHub..."
