@@ -2,7 +2,7 @@
 
 # Clone repository
 echo "Mengunduh file dari GitHub..."
-git clone https://github.com/mrobistore@gmail.com/fan-control.git /tmp/fan_control
+git clone https://github.com/mrobistore/fancontrol_hg680p.git /tmp/fan_control
 
 # Salin file ke lokasi yang sesuai
 echo "Menyalin file konfigurasi..."
