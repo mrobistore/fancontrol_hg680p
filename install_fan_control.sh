@@ -1,5 +1,9 @@
 #!/bin/sh
 
+# Buat Direktori
+echo "Membuat folder......"
+
+
 # Clone repository
 echo "Mengunduh file dari GitHub..."
 git clone https://github.com/mrobistore/fancontrol_hg680p.git /tmp/fan_control
