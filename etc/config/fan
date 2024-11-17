@@ -1,0 +1,4 @@
+ettings 'settings'
+    option temp_min '33'
+    option temp_max '39'
+    option delay_seconds '5'

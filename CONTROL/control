@@ -1,0 +1,7 @@
+ckage: fan-control
+Version: 1.0
+Architecture: all
+Maintainer: Your Name <mrobistore@gmail.com>
+Section: utilities
+Priority: optional
+Description: Fan Control Script with LuCI interface for OpenWRT.

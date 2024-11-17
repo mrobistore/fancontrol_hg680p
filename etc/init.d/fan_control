@@ -1,0 +1,14 @@
+yanan untuk kontrol kipas
+
+START=99
+STOP=15
+
+start() {
+    echo "Starting fan control..."
+    /root/fan_control.sh &
+}
+
+stop() {
+    echo "Stopping fan control..."
+    pkill -f fan_control.sh
+}
